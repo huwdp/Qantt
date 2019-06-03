@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\about.o
+./debug\documentation.o
+./debug\ganttgraphics.o
+./debug\spinboxdelegate.o
+./debug\dateeditdelegate.o
+./debug\fileio.o
+./debug\moc_mainwindow.o
+./debug\moc_about.o
+./debug\moc_documentation.o
+./debug\moc_spinboxdelegate.o
+./debug\moc_dateeditdelegate.o
+./debug\moc_fileio.o
+);

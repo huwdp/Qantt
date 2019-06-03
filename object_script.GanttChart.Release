@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\about.o
+./release\documentation.o
+./release\ganttgraphics.o
+./release\spinboxdelegate.o
+./release\dateeditdelegate.o
+./release\fileio.o
+./release\moc_mainwindow.o
+./release\moc_about.o
+./release\moc_documentation.o
+./release\moc_spinboxdelegate.o
+./release\moc_dateeditdelegate.o
+./release\moc_fileio.o
+);
